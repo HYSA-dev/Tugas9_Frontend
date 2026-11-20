@@ -15,6 +15,7 @@ praktikum-9-async-js/
 │       ├── async_demo.js           --> Kode latihan simulasi latensi jaringan (materi pertemuan)
 │       └── tugas_praktikum_9.js    --> Kode tugas utama (Promise Chaining 3 tahap & Error Handling)
 └── README.md                       --> Dokumentasi analisis & bukti screenshot hasil console
+```
 
 ### Analisis Mekanisme Non-Blocking, Call Stack, dan Event Loop
 
