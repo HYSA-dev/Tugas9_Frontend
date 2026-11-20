@@ -1,15 +1,16 @@
 ## Praktikum 9: Asynchronous JavaScript, Event Loop, dan Promise
 
-Nama : Galing Surya
-NIM : 1125102206
-
-Struktur proyek:
+* **Nama**: Galing Surya Nuralif Alamsya
+* **NIM**: 1125102206
+---
+## Struktur Proyek
+```text
 praktikum-9-async-js/
 ├── index.html                      --> Halaman antarmuka untuk menjalankan & menguji skrip di browser
 ├── assets/
 │   ├── image/
-│   │   ├── Proses_gagal.png
-│   │   └── Proses_sukses.png      
+│   │   ├── Proses_sukses.png       --> Bukti tangkapan layar skenario sukses (Resolve)
+│   │   └── Proses_gagal.png        --> Bukti tangkapan layar skenario gagal (Reject)
 │   └── js/
 │       ├── async_demo.js           --> Kode latihan simulasi latensi jaringan (materi pertemuan)
 │       └── tugas_praktikum_9.js    --> Kode tugas utama (Promise Chaining 3 tahap & Error Handling)
